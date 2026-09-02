@@ -3,12 +3,12 @@
 # =========================================
 
 # 1) BotFather'dan olingan tokeningiz
-TOKEN = '8835863005:AAE0vRXjC1f0cEU6tGUAb18cIfj9IP8HV2I'
+TOKEN = '8835863005:AAEOvRXjC1f0cEU6tGUAb18cIfj9IP8HV2I'
 
 # 2) Admin / Project Manager'larning Telegram ID raqamlari.
 #    Shu ro'yxatdagi odamlar "Yangi vazifa yaratish" va "Kunlik xulosa"
 #    tugmalarini ko'radi. Bir nechta admin bo'lsa, vergul bilan qo'shing.
-ADMIN_IDS = [5842151066]
+ADMIN_IDS = [8835863005]
 
 # 3) Har kuni ishchilarga eslatma yuboriladigan vaqt (24 soatlik format, server vaqti bo'yicha)
 REMINDER_TIME = "09:00"
