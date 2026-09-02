@@ -3,7 +3,7 @@
 # =========================================
 
 # 1) BotFather'dan olingan tokeningiz
-TOKEN = '8835863005:AAEOvRXjC1f0cEU6tGUAb18cIfj9IP8HV2I'
+TOKEN = '8835863005:AAFUYcHp0wmYuG4B-Nb1cXNjZ5SMpyXtdHM'
 
 # 2) Admin / Project Manager'larning Telegram ID raqamlari.
 #    Shu ro'yxatdagi odamlar "Yangi vazifa yaratish" va "Kunlik xulosa"
